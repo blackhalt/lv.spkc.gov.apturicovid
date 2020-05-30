@@ -1,2 +1,2 @@
-# lv.spkc.gov.apturicovid-
+# lv.spkc.gov.apturicovid
 #apturicovid
